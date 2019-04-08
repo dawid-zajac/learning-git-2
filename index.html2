@@ -4,14 +4,37 @@
       <title>Prosty html</title>
       <link  rel="stylesheet" href="style.css">
       <meta charset="UTF-8">
+      <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
     </head>
     <body>
       <div>
         <h1>Daryl Sherman - Dream</h1>
+      </div>
+      <div>
         <p>Get in touch with that sundown fellow
           As he tiptoes across the sand
           He's got a million kinds of stardust
           Pick your fav'rite brand, and</p>
+      </div>
+      <div>
+          <p>Sanjam jednu iskru
+              Koju vjetar nanosi u vodu bistru
+              Gledam ju i uživam sreću svu
+              Dok Gavran ne plane tu
+              Očarava me ljepota njena
+              Kristalna, čarobna i jedinstvena
+          </p>
+      </div>
+      <div>
+          <p>Tvoji Ognjevi se ne Gase
+              Tek zovu duše da se spase
+              Ljute vatre što se bude
+              Već se Nude, da te probude
+              Doline života, sad se gase
+              Paklena žetva sad ih pase
+              Nema ljubavi, nema milosti
+              Samo vječna tama će ostati
+          </p>
       </div>
       <footer>
         <h1>Kontakt</h1>
