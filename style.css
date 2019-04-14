@@ -12,6 +12,6 @@ div {
 	border-radius: 10px;
 	float: none;
 }
-p h1 {
+p, h1 {
 	text-align: center;
 }
