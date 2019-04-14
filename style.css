@@ -3,7 +3,6 @@
 	background-color: #99e6ff;
 	max-width: 1200px;
 	margin: 0 auto;
-	text-align: center;
 	padding: 0 auto;
 }
 div {
@@ -11,4 +10,7 @@ div {
 	padding: 5px;
 	background-color: rgb(153, 255, 204, 0.5);
 	border-radius: 10px;
+}
+p h1 {
+	text-align: center;
 }
