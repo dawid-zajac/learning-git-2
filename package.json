@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run test:html",
     "test:html": "globstar nu-html-checker *.html",
-    "init-project": "mkdirp sass css vendor images js && touch README.md index.html sass/style.sass js/script.js && curl https://raw.githubsercontent.com/github/gitgnore/master/Node.gitgnore -o .gitgnore"
+    "init-project": "mkdirp sass css vendor images js && touch README.md index.html sass/style.scss js/script.js && curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore"
   },
   "repository": {
     "type": "git",
