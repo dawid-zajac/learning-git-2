@@ -1,2 +1,0 @@
-node_modules/.bin/browser-sync start --server --files "css/*.css" "*style.prefixed.css"
- java -jar ~/vnu.jar some-directory-name/
