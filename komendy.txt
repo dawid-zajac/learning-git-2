@@ -1,2 +1,2 @@
-node_modules/.bin/browser-sync start --server --files "css/*.css" "*style.prefixed.css"
- java -jar ~/vnu.jar some-directory-name/
+node_modules/.bin/autoprefixer-cli -o main.style.css style.css
+node_modules/.bin/nu-html-checker *.html
